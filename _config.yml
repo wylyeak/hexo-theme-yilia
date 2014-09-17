@@ -6,9 +6,9 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
+  github: "https://github.com/wylyeak"
+  weibo: "http://weibo.com/wylhelp"
+  rss: "http://feed.feedsky.com/wylyeak"
   # facebook: "/"
   # google: "/"
   # twitter: "/"
@@ -24,6 +24,6 @@ fancybox: true
 
 favicon: /favicon.png
 
-avatar: "https://avatars2.githubusercontent.com/u/2024949?v=2&s=150"
+avatar: "https://avatars2.githubusercontent.com/u/1926058?v=2&s=460"
 share: true
-duoshuo: "your duoshuo pro name"
+duoshuo: wylyeak
