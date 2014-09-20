@@ -5,7 +5,7 @@ menu:
   # 随笔: /tags/随笔
 
 # SubNav
-subnav:
+  subnav:
   github: "https://github.com/wylyeak"
   weibo: "http://weibo.com/wylhelp"
   rss: "http://feed.feedsky.com/wylyeak"
@@ -24,6 +24,11 @@ fancybox: true
 
 favicon: /favicon.png
 
+#你的头像
 avatar: "https://avatars2.githubusercontent.com/u/1926058?v=2&s=460"
+#是否开启分享
 share: true
+#是否开启多说评论，填写你在多说申请的项目名称
 duoshuo: wylyeak
+#是否开启云标签
+tagcloud: true
